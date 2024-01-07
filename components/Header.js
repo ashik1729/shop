@@ -46,6 +46,7 @@ const Header = ({ navigation }) => {
       <Text style={styles.menuItem}>Shop</Text>
       <Text style={styles.menuItem}>Login</Text>
       <Text style={styles.menuItem}>Register</Text>
+      <Text style={styles.menuItem}>Register</Text>
       <Text style={styles.menuItem}>Find Us</Text>
     <Menu />  </View> */}
 
